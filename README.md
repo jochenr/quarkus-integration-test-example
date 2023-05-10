@@ -1,7 +1,7 @@
 # quarkus-integration-test-example Project
 
 
-## this works (with IT, because <skipITs>false</skipITs>):
+## this works (with IT, because \<skipITs\>false\</skipITs\>):
 mvn clean install
 
 
