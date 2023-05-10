@@ -1,0 +1,11 @@
+mvn io.quarkus:quarkus-maven-plugin:2.13.7.Final:create -DprojectGroupId=de.jochenr.quarkus-integration-test-example -DprojectArtifactId=quarkus-integration-test-example
+
+
+
+
+	
+	
+	
+	
+
+	
